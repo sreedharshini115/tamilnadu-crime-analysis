@@ -44,4 +44,4 @@ The dataset contains the following columns:
 Data cleaning and exploratory analysis have been completed. Further stages depend on the current implementation.
 
 ## Author
-Student Project — Tamil Nadu Crime Data Analysis
+Student Project - Tamil Nadu Crime Data Analysis
